@@ -1,4 +1,4 @@
-baseURL = "https://thelostcircuit.github.io/blog/"
+baseURL = "https://blog.shyldtech.com/"
 languageCode = "en-us"
 title = "thelostcircuit"
 theme = "terminal"
